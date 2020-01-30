@@ -18,7 +18,7 @@ string Money::toCurrency(double amount) {
     ss.imbue(locale(""));
     ss << showbase << put_money(amount*100);
     return ss.str();
-
+}
 
 // convert currency to float
 // read currency values from stdin and compute value
