@@ -15,9 +15,10 @@ string Money::toString() {
 string Money::toCurrency(double amount) {
     stringstream ss;
 
-    ss << "$" << left << setfill('0') << setw(4) << amount;
+    ss.imbue(locale(""));
+    ss << showbase << put_money(amount*100);
     return ss.str();
-}
+
 
 // convert currency to float
 // read currency values from stdin and compute value
