@@ -62,8 +62,8 @@ Sample output:
 3 hundreds 8 tens 0 fives 0 ones 0 quarters 99 dimes 1 nickels 3 pennies = $389.98
 $427.99 = 4 hundreds 2 tens 1 fives 2 ones 3 quarters 2 dimes 0 nickels 4 pennies
 $25.33 = 0 hundreds 2 tens 1 fives 0 ones 1 quarters 0 dimes 1 nickels 3 pennies
-check for $32.18 = 32 dollars and 18 cents
-check for $100.00 = 100 dollars and 0 cents
+check for $32.18 = thirty two dollars and 18 cents
+check for $100.00 = one hundred dollars and 0 cents
 change back on $100.00 for purchase of $52.17 is $47.83 which is 0 hundreds 4 tens 1 fives 2 ones 3 quarters 0 dimes 1 nickels 3 pennies
 change back on 1 hundreds 0 tens 0 fives 0 ones 0 quarters 0 dimes 0 nickels 0 pennies for purchase of $52.17 is $47.83 which is 0 hundreds 4 tens 1 fives 2 ones 3 quarters 0 dimes 1 nickels 3 pennies
 1 hundreds 1 tens 0 fives 1 ones 1 quarters 1 dimes 1 nickels 1 pennies = $111.41
