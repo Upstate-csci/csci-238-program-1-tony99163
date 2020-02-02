@@ -47,9 +47,9 @@ check
 change-float 
 100.00 52.17
 change-change 
-1 0 0 0 0 0 0 52.17
+1 0 0 0 0 0 0 0 52.17
 change 
-1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
 change-float
 5 .99
 change-float 
